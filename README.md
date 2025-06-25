@@ -1,4 +1,4 @@
-# Arbitrage2: Cross-Exchange Crypto Arbitrage Bot
+# Arbitrage: Cross-Exchange Crypto Arbitrage Bot
 
 ## 📈 Overview
 
