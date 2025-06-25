@@ -65,7 +65,7 @@ If you find bugs or want new features, open an [issue](https://github.com/niwek1
 ## 👤 Author & Contact
 
 Project by **niwek1**  
-For questions, collaboration, or consulting, [connect on LinkedIn](https://www.linkedin.com/in/niwek1) or open a GitHub issue.
+For questions, collaboration, or consulting, [connect on LinkedIn](https://www.linkedin.com/in/kewinsungkur) or open a GitHub issue.
 
 ---
 
